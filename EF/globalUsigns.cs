@@ -1,0 +1,12 @@
+global using System;
+global using System.Threading.Tasks;
+global using System.Collections.Generic;
+global using System.Linq;
+global using System.Linq.Expressions;
+global using System.Data;
+global using System.Data.Common;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore.Storage;
+global using Microsoft.Extensions.Logging;
+global using DotNetBB.Repository.Abstraction.Entity;
+global using DotNetBB.Repository.Abstraction.Interface;
